@@ -1,0 +1,2 @@
+155e59369eadbe53189baceac393e204e10aa5b6c03ebfa67a862a93f5c35afa  target/wasm32-unknown-unknown/release/host.wasm
+8f0a3af2e0c2b06cfd5fd1622de5a47bb5f7826437b359869886020400f307d4  target/wasm32-unknown-unknown/release/controller.wasm
